@@ -968,7 +968,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libkeymaster_helper \
     libskeymaster4device \
-    com.qualcomm.qti.ant@1.0 \
     fm_helium \
     libfm-hci \
     vendor.qti.hardware.fm@1.0 \
