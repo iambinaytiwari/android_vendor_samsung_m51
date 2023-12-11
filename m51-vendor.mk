@@ -940,6 +940,7 @@ PRODUCT_PACKAGES += \
     libfm-hci \
     vendor.qti.hardware.fm@1.0 \
     TimeService \
+    com.qualcomm.qti.gpudrivers.sm6150.api30 \
     audiosphere \
     vendor.qti.voiceprint-V1.0-java \
     android.hardware.gnss@2.1-service-qti \
